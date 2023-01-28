@@ -10,7 +10,7 @@ Our organization is inspired by the determination and hardworking spirit of dwar
 
 # Current Projects
 
-### [MedicalClinic WebSite Project](https://pages.github.com/)
+### [MedicalClinic WebSite Project (Click here to see more)](https://pages.github.com/)
 <p align="center">
   <img src="https://user-images.githubusercontent.com/79093871/215061730-c440420f-3d2e-4205-99c0-8165b3253792.png">
 </p>
